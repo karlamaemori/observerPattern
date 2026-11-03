@@ -1,0 +1,3 @@
+public enum NewsCategory {
+    ALL, POLITICS, SPORTS, TECHNOLOGY, ENTERTAINMENT
+}
